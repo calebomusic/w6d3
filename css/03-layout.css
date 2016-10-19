@@ -1,0 +1,25 @@
+/* PHASE 3: Layout */
+.content {
+  display: flex;
+  justify-content: space-between;
+  width: 71%;
+  margin-left: 14.5%;
+}
+
+.content-sidebar {
+  display: flex;
+  background-color: #fff;
+  width: 27%;
+  border: 1px solid #ccc;
+}
+
+.content-main {
+  display: flex;
+  background-color: #fff;
+  width: 73%;
+  padding-top: 240px;
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  border-top: 1px solid #ccc;
+
+}
